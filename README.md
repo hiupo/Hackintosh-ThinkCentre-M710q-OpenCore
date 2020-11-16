@@ -11,8 +11,6 @@
 |  硬盘1   |                   WD_BLACK SN750 500GB                     |
 |  硬盘2   |                KIOXIA EXCERIA TC10 240G                      |
 |   显卡   |                       Intel HD 630                        |
-|  显示器  |                              无                              |
-|   声卡   |                        Realtek ALC235                        |
 |   网卡   |                     Intel WiFi 6 AX200                      |
 
 ## 更新日志
