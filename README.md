@@ -1,2 +1,4 @@
-# Hackintosh-ThinkCentre-M710q-OpenCore
-OpenCore-0.6.3-RELEASE
+# Hackintosh ThinkCentre M710q OpenCore
+#引导
+OpenCore 0.6.3 RELEASE
+#配置
