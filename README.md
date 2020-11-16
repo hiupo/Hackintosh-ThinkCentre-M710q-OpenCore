@@ -1,11 +1,25 @@
 # Hackintosh ThinkCentre M710q OpenCore
-一、引导
-OpenCore 0.6.3 RELEASE
-二、配置
-CPU：Intel i5-7100T
-内存：Tigo DDR4 2666 8GB
-显卡：HD 630
-硬盘1：WD_BLACK SN750 500GB
-硬盘2：KIOXIA EXCERIA TC10 240G
-网卡：Intel I219
-无线网卡：Intel WiFi 6 AX200
+
+## 电脑配置
+
+|   规格   |                           详细信息                           |
+| :------: | :----------------------------------------------------------: |
+| 电脑型号 |                  Lenovo ThinkCentre M710q                   |
+| 操作系统 |                        macOS Catalina                        |
+|  处理器  |                    英特尔 酷睿 i3 - 7100T                    |
+|   内存   |                    Tigo DDR4 2666 8GB                       |
+|  硬盘1   |                   WD_BLACK SN750 500GB                     |
+|  硬盘2   |                KIOXIA EXCERIA TC10 240G                      |
+|   显卡   |                       Intel HD 630                        |
+|  显示器  |                              无                              |
+|   声卡   |                        Realtek ALC235                        |
+|   网卡   |                     Intel WiFi 6 AX200                      |
+
+## 更新日志
+
+- 11-16-2020
+  - OpenCore 0.6.3
+
+## 备注：
+
+使用前请注入三码，机型选择 Macmini8,1
