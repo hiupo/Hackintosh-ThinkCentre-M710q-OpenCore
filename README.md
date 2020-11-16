@@ -1,0 +1,1 @@
+# Hackintosh-ThinkCentre-M710q-OpenCore
